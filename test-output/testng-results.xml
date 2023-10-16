@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-09T23:07:52 IST" name="Suite" finished-at="2023-10-09T23:08:42 IST" duration-ms="49396">
+    <groups>
+    </groups>
+    <test started-at="2023-10-09T23:07:52 IST" name="Test1" finished-at="2023-10-09T23:08:10 IST" duration-ms="17424">
+      <class name="uk.co.automationtesting.AddRemoveItemBasketTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@3cd3e762]" started-at="2023-10-09T23:07:52 IST" name="setup" finished-at="2023-10-09T23:07:57 IST" duration-ms="4683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRemoveItem()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@3cd3e762]" started-at="2023-10-09T23:07:57 IST" name="addRemoveItem" finished-at="2023-10-09T23:08:09 IST" duration-ms="12511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@3cd3e762]" started-at="2023-10-09T23:08:09 IST" name="teardown" finished-at="2023-10-09T23:08:10 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- uk.co.automationtesting.AddRemoveItemBasketTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-10-09T23:07:52 IST" name="Test2" finished-at="2023-10-09T23:08:42 IST" duration-ms="49396">
+      <class name="uk.co.automationtesting.OrderCompleteTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@43c1b556]" started-at="2023-10-09T23:07:52 IST" name="setup" finished-at="2023-10-09T23:07:57 IST" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="endToend()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@43c1b556]" started-at="2023-10-09T23:07:57 IST" name="endToend" finished-at="2023-10-09T23:08:41 IST" duration-ms="44456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToend -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:uk.co.automationtesting.OrderCompleteTest@43c1b556]" started-at="2023-10-09T23:08:41 IST" name="teardown" finished-at="2023-10-09T23:08:42 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- uk.co.automationtesting.OrderCompleteTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

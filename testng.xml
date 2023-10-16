@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="tests" thread-count="2">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="uk.co.automationtesting.AddRemoveItemBasketTest"/>
+   
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="Test2">
+    <classes>
+      <class name="uk.co.automationtesting.OrderCompleteTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
+
+<!--parallel="tests" thread-count="2"-->
