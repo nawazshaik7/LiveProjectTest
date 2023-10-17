@@ -11,8 +11,7 @@
   <test thread-count="5" name="Test2">
     <classes>
       <class name="uk.co.automationtesting.OrderCompleteTest"/>
-      
-    </classes>
+      </classes>
   </test>
 </suite> <!-- Suite -->
 
